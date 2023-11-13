@@ -33,4 +33,4 @@ Wallet 0xaC0194cA42E22f8734435Ad85e1511a2Db24fDEe votes: 2.0
 Wallet 0xD9A97B1191EBC87CA1Eeec55209e5EFF4214C6E0 votes: 0.0
 
 
-TokenizedBallot contract deployed at 0x5FbDB2315678afecb367f032d93F642f64180aa3
+TokenizedBallot contract deployed at 0xc7C74623e5a4AA4bf4933720a47DF193Ac661261
